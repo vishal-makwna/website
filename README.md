@@ -20,7 +20,7 @@ Warzone's website is built with React. This ties in with Warzone's [TGM](https:/
 
 4. Start the development server with `yarn start` (or `npm run start`). You can also build the project with `yarn build` (or `npm run build`).
 
-### Developer Notes
+### Developer Notes    yes
 
-- We use [Prettier](https://prettier.io/). If you want to setup Prettier locally make sure to use our `.prettierrc`. This is optional as we have a GitHub bot that formats files if they're not already formatted correctly.
+- We use [Prettier](https://prettier.io/). If you want to setup Prettier locally make sure to use our `.prettierrc`. This is optional as we have a GitHub bot that formats files if they're not already formatted correctly
 - The site was not built with self-hosting in mind. This means important links like the Discord server and store are hardcoded at the moment.
